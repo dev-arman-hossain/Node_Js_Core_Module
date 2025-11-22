@@ -1,3 +1,3 @@
 Mood: Focused
 
-learing about async operation now.
+Learning about async operations now.
